@@ -23,6 +23,10 @@ o	Insights Deep-Dive:
 	Total Sales by Sales Method
 
 	Top 10 States by Sales
+ 
+o Recommendations
+
+o Assumptions and Constraints
 ________________________________________
 
 Project Background:
