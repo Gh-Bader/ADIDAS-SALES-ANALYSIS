@@ -5,6 +5,7 @@ Data analysis project
 ADIDAS SALES ANALYSIS
 
 Contents:
+
 o	Project Background
 
 o	Executive Summary
