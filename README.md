@@ -24,6 +24,7 @@ o	Insights Deep-Dive:
 
 	Top 10 States by Sales
 ________________________________________
+
 Project Background:
 
 This project aims to analyze Adidas sales data to uncover performance metrics, trends, and actionable insights. The analysis focuses on identifying the top-performing products, regions, and sales methods to enhance strategic planning.
