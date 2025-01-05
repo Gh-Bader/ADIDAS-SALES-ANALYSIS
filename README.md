@@ -1,6 +1,9 @@
 # ADIDAS-SALES-ANALYSIS
+
 Data analysis project
+
 ADIDAS SALES ANALYSIS
+
 Contents:
 o	Project Background
 
